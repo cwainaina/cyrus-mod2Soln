@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: aliceblue;
 }
 h1{
     text-align: center;
@@ -13,5 +13,14 @@ p{
 
 }
 div{
-    background-color: aliceblue;
+    background-color: gray;
+    overflow: auto;
 }
+
+h2{
+text-align:right;
+}
+#about >h2{
+    background-color: brown;
+}
+
